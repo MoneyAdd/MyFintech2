@@ -123,9 +123,9 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:id="@+id/stamp1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_weight="1"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="24dp"
@@ -134,6 +134,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
+            android:id="@+id/stamp2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -142,6 +143,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -150,6 +152,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -169,9 +172,9 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:id="@+id/stamp5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_weight="1"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="24dp"
@@ -180,6 +183,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
+            android:id="@+id/stamp6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -188,6 +192,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -196,6 +201,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -215,9 +221,9 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:id="@+id/stamp9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_weight="1"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="24dp"
@@ -226,6 +232,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
+            android:id="@+id/stamp10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -234,6 +241,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -242,6 +250,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp12"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -261,9 +270,9 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:id="@+id/stamp13"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_weight="1"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="24dp"
@@ -272,6 +281,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
+            android:id="@+id/stamp14"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -280,6 +290,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp15"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -288,6 +299,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp16"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -307,9 +319,9 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:id="@+id/stamp17"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_weight="1"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="24dp"
@@ -318,6 +330,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
+            android:id="@+id/stamp18"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -326,6 +339,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp19"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -334,6 +348,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
         <ImageView
+            android:id="@+id/stamp20"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -342,7 +357,6 @@
             android:src="@drawable/frame56_1"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
-
     </LinearLayout>
 </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

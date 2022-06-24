@@ -9,9 +9,17 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:src="@drawable/frame_83"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <!-- <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:src="@drawable/vector4"
-        android:layout_marginLeft="136dp"
-        android:layout_marginRight="26dp"
+        android:layout_marginLeft="137dp"
+        android:adjustViewBounds="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -31,7 +39,7 @@
         android:adjustViewBounds="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent"/>-->
 <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
